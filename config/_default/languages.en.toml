@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Dr. Sunayana Ghosh"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Applied Mathematician & Data Consultant specializing in Medtech and Climate Tech"
+
+[params.author]
+  name = "Dr. Sunayana Ghosh"
+  image = "img/profile.jpg"
+  headline = "Applied Mathematician / Software Developer"
+  bio = "PhD in Computational Geometry • 15+ years in Medtech & Climate Tech • Building data solutions that matter"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/sunayanag/" },
+    { github = "https://github.com/sunayana" },
+    { researchgate = "https://www.researchgate.net/profile/Sunayana-Ghosh" },
+    { medium = "https://medium.com/@sunayanag" }
+  ]
