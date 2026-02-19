@@ -82,7 +82,5 @@ enableCodeCopy = true
   cardView = true
   cardViewScreenWidth = false
 
-[analytics]
-  [analytics.umami]
-    websiteId = "5f3119eb-f726-469b-9709-a1b81b20e724"
-    domain = "https://analytics.umami.is"
+[umamiAnalytics]
+  websiteid = "5f3119eb-f726-469b-9709-a1b81b20e724"
