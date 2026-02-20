@@ -2,7 +2,7 @@
 date = '2026-02-11T16:34:53+05:30'
 draft = false
 title = 'About Me'
-description = 'Applied mathematician driven by the conviction that technology can be a powerful force for positive change'
+description = 'Senior Software Engineer with a PhD in Computational Geometry. 15+ years building geospatial ML pipelines, flood risk systems, and carbon monitoring platforms in medtech and climate tech.'
 +++
 
 For over 15 years, I've been driven by a conviction that **mathematics, computing, and thoughtful engineering can be powerful forces for positive change**.

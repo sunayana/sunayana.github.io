@@ -1,5 +1,7 @@
 # Blowfish Configuration
 
+images = ["images/og-image.jpg"]
+
 # Color scheme - professional gray (slate)
 colorScheme = "slate"
 defaultAppearance = "dark"

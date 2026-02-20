@@ -1,6 +1,6 @@
 ---
 title: "Dr. Sunayana Ghosh"
-description: "Applied Mathematician & Data Consultant"
+description: "PhD in Computational Geometry with 15+ years building data solutions for medtech and climate tech. Available for consulting in geospatial ML, surgical navigation, and carbon monitoring."
 ---
 
 Applied mathematician with a **PhD in Computational Geometry** and **15+ years** building data solutions for **medtech** and **climate tech**.
